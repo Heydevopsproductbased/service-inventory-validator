@@ -1,0 +1,9 @@
+[
+  {
+    "name" : "payment-api",
+    "owner" : "team-payment-api",
+    "region" : "eu-west-1",
+    "replicas" : "3"
+
+  }
+]
