@@ -1,0 +1,9 @@
+[
+  {
+    "name": "api",
+    "owner": "platform",
+    "region": "eu-west-1",
+    "replicas": 2
+  },
+  "not a service"
+]

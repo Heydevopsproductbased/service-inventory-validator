@@ -1,9 +1,14 @@
 [
   {
-    "name" : "payment-api",
-    "owner" : "team-payment-api",
-    "region" : "eu-west-1",
-    "replicas" : "3"
-
+    "name": "api",
+    "owner": "platform",
+    "region": "eu-west-1",
+    "replicas": 2
+  },
+  {
+    "name": "worker",
+    "owner": "platform",
+    "region": "eu-west-1",
+    "replicas": 1
   }
 ]
