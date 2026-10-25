@@ -1,0 +1,4 @@
+{
+"name" : "payment.api",
+"replicas" : 4
+}

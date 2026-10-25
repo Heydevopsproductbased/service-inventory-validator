@@ -1,0 +1,5 @@
+ {
+  "name" : "payment_api",
+   "replicas" : 3,
+   "region" : "eu-west-1"
+}
